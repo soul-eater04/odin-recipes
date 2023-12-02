@@ -1,0 +1,37 @@
+.heading{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px auto;
+    text-align: center;
+}
+.recipe-container{
+    display: flex;
+    justify-content: space-around;
+}
+/* 
+.recipe-container div{
+    width: 430px;
+    height: 4300px;
+} */
+/* .recipes-images img{
+    margin: 30px;
+    width: 400px;
+    height: 400px;
+} */
+/* .recipe-links a{
+    margin: 30px;
+} */
+/* .recipe-container div{
+    display: inline;
+} */
+.chicken,.pav-bhaji{
+    text-align: center;
+    height:430px;
+    width:430px;
+    margin:100px;
+}
+.chicken img, .pav-bhaji img{
+    margin:30px;
+    width:400px;
+    height:400px;
+} 
